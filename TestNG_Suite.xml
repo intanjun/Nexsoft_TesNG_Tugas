@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SuiteTest">
+
+	<test name="FrontEnd Test">
+
+		<classes>
+			<class name="com.nexsoft.testng.frontpage.Frontpage"></class>
+		</classes>
+
+	</test>
+
+
+	<test name="BackEnd Test">
+
+		<classes>
+			<class name="com.nexsoft.testng.dashboard.CRUDBuilder"></class>
+		</classes>
+
+	</test>
+
+</suite>
